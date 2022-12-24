@@ -1,0 +1,2 @@
+4 1931 53 "Lionel Barrymore" "A Free Soul" "Wallace Beery", "The Champ" "Fredric March", "Dr. Jekyll and Mr. Hyde"  7 1934, 34, "Charles Laughton", "The Private Life of Henry VIII"
+ 8, 1935, 34, "Clark Gable" "It Happened One Night" "Victor McLaglen", "The Informer" "Paul Muni", "The Story of Louis Pasteur"	

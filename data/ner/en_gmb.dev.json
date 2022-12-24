@@ -1,0 +1,5376 @@
+[
+ [
+  {
+   "text": "U.S.",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "commanders",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "not",
+   "ner": "O"
+  },
+  {
+   "text": "explained",
+   "ner": "O"
+  },
+  {
+   "text": "how",
+   "ner": "O"
+  },
+  {
+   "text": "American",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "forces",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "participate",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "offensive",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Speaking",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "ABC",
+   "ner": "B-org"
+  },
+  {
+   "text": "News",
+   "ner": "I-org"
+  },
+  {
+   "text": "interviewer",
+   "ner": "O"
+  },
+  {
+   "text": "Dianne",
+   "ner": "B-per"
+  },
+  {
+   "text": "Sawyer",
+   "ner": "I-per"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "25-year-old",
+   "ner": "O"
+  },
+  {
+   "text": "co-star",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "TV",
+   "ner": "O"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "The",
+   "ner": "B-art"
+  },
+  {
+   "text": "Simple",
+   "ner": "I-art"
+  },
+  {
+   "text": "Life",
+   "ner": "I-art"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "she",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "almost",
+   "ner": "O"
+  },
+  {
+   "text": "four",
+   "ner": "O"
+  },
+  {
+   "text": "months",
+   "ner": "O"
+  },
+  {
+   "text": "along",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "her",
+   "ner": "O"
+  },
+  {
+   "text": "pregnancy",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "death",
+   "ner": "O"
+  },
+  {
+   "text": "toll",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "expected",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "rise",
+   "ner": "O"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "temperatures",
+   "ner": "O"
+  },
+  {
+   "text": "continue",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "hover",
+   "ner": "O"
+  },
+  {
+   "text": "around",
+   "ner": "O"
+  },
+  {
+   "text": "minus",
+   "ner": "O"
+  },
+  {
+   "text": "30",
+   "ner": "O"
+  },
+  {
+   "text": "degrees",
+   "ner": "O"
+  },
+  {
+   "text": "Celsius",
+   "ner": "O"
+  },
+  {
+   "text": "or",
+   "ner": "O"
+  },
+  {
+   "text": "lower",
+   "ner": "O"
+  },
+  {
+   "text": "overnight",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "attacks",
+   "ner": "O"
+  },
+  {
+   "text": "occurred",
+   "ner": "O"
+  },
+  {
+   "text": "after",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "government",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "it",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "go",
+   "ner": "O"
+  },
+  {
+   "text": "ahead",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "reconciliation",
+   "ner": "O"
+  },
+  {
+   "text": "conference",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "which",
+   "ner": "O"
+  },
+  {
+   "text": "more",
+   "ner": "O"
+  },
+  {
+   "text": "than",
+   "ner": "O"
+  },
+  {
+   "text": "1,300",
+   "ner": "O"
+  },
+  {
+   "text": "Somali",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "elders",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "warlords",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "politicians",
+   "ner": "O"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "invited",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "A",
+   "ner": "O"
+  },
+  {
+   "text": "commercial",
+   "ner": "O"
+  },
+  {
+   "text": "airplane",
+   "ner": "O"
+  },
+  {
+   "text": "taking",
+   "ner": "O"
+  },
+  {
+   "text": "off",
+   "ner": "O"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "Western",
+   "ner": "B-geo"
+  },
+  {
+   "text": "Europe",
+   "ner": "I-geo"
+  },
+  {
+   "text": "has",
+   "ner": "O"
+  },
+  {
+   "text": "landed",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Iraq",
+   "ner": "B-geo"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "first",
+   "ner": "O"
+  },
+  {
+   "text": "time",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "nearly",
+   "ner": "O"
+  },
+  {
+   "text": "20",
+   "ner": "O"
+  },
+  {
+   "text": "years",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "In",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "statement",
+   "ner": "O"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "Chinese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "Foreign",
+   "ner": "B-org"
+  },
+  {
+   "text": "Ministry",
+   "ner": "I-org"
+  },
+  {
+   "text": "spokesman",
+   "ner": "O"
+  },
+  {
+   "text": "Liu",
+   "ner": "B-per"
+  },
+  {
+   "text": "Jianchao",
+   "ner": "I-per"
+  },
+  {
+   "text": "accused",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "U.S.",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "body",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "attempting",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "interfere",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "Chinese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "internal",
+   "ner": "O"
+  },
+  {
+   "text": "affairs",
+   "ner": "O"
+  },
+  {
+   "text": "under",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "guise",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "religious",
+   "ner": "O"
+  },
+  {
+   "text": "freedom",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Israeli",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "media",
+   "ner": "O"
+  },
+  {
+   "text": "say",
+   "ner": "O"
+  },
+  {
+   "text": "Adam",
+   "ner": "B-per"
+  },
+  {
+   "text": "had",
+   "ner": "O"
+  },
+  {
+   "text": "several",
+   "ner": "O"
+  },
+  {
+   "text": "disagreements",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "army",
+   "ner": "O"
+  },
+  {
+   "text": "chief",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Lieutenant",
+   "ner": "B-per"
+  },
+  {
+   "text": "General",
+   "ner": "I-per"
+  },
+  {
+   "text": "Dan",
+   "ner": "I-per"
+  },
+  {
+   "text": "Halutz",
+   "ner": "I-per"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "over",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "conduct",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "war",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Violators",
+   "ner": "O"
+  },
+  {
+   "text": "could",
+   "ner": "O"
+  },
+  {
+   "text": "be",
+   "ner": "O"
+  },
+  {
+   "text": "jailed",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "up",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "six",
+   "ner": "O"
+  },
+  {
+   "text": "months",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Witnesses",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Somalia",
+   "ner": "B-geo"
+  },
+  {
+   "text": "say",
+   "ner": "O"
+  },
+  {
+   "text": "insurgents",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "burned",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "dragged",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "bodies",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "least",
+   "ner": "O"
+  },
+  {
+   "text": "two",
+   "ner": "O"
+  },
+  {
+   "text": "soldiers",
+   "ner": "O"
+  },
+  {
+   "text": "through",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "streets",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Mogadishu",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "after",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "clash",
+   "ner": "O"
+  },
+  {
+   "text": "between",
+   "ner": "O"
+  },
+  {
+   "text": "militants",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "Ethiopian",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "forces",
+   "ner": "O"
+  },
+  {
+   "text": "killed",
+   "ner": "O"
+  },
+  {
+   "text": "seven",
+   "ner": "O"
+  },
+  {
+   "text": "people",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Ritchie",
+   "ner": "B-per"
+  },
+  {
+   "text": "also",
+   "ner": "O"
+  },
+  {
+   "text": "spoke",
+   "ner": "O"
+  },
+  {
+   "text": "about",
+   "ner": "O"
+  },
+  {
+   "text": "her",
+   "ner": "O"
+  },
+  {
+   "text": "guilty",
+   "ner": "O"
+  },
+  {
+   "text": "plea",
+   "ner": "O"
+  },
+  {
+   "text": "last",
+   "ner": "O"
+  },
+  {
+   "text": "week",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "driving",
+   "ner": "O"
+  },
+  {
+   "text": "under",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "influence",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "resulting",
+   "ner": "O"
+  },
+  {
+   "text": "four-day",
+   "ner": "O"
+  },
+  {
+   "text": "jail",
+   "ner": "O"
+  },
+  {
+   "text": "sentence",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "U.N.",
+   "ner": "B-org"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "Food",
+   "ner": "B-org"
+  },
+  {
+   "text": "and",
+   "ner": "I-org"
+  },
+  {
+   "text": "Agricultural",
+   "ner": "I-org"
+  },
+  {
+   "text": "Organization",
+   "ner": "I-org"
+  },
+  {
+   "text": "(",
+   "ner": "O"
+  },
+  {
+   "text": "FAO",
+   "ner": "B-org"
+  },
+  {
+   "text": ")",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "tsunami",
+   "ner": "O"
+  },
+  {
+   "text": "destroyed",
+   "ner": "O"
+  },
+  {
+   "text": "or",
+   "ner": "O"
+  },
+  {
+   "text": "damaged",
+   "ner": "O"
+  },
+  {
+   "text": "more",
+   "ner": "O"
+  },
+  {
+   "text": "than",
+   "ner": "O"
+  },
+  {
+   "text": "1,11,000",
+   "ner": "O"
+  },
+  {
+   "text": "fishing",
+   "ner": "O"
+  },
+  {
+   "text": "vessels",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "region",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Two",
+   "ner": "O"
+  },
+  {
+   "text": "men",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "pistols",
+   "ner": "O"
+  },
+  {
+   "text": "attacked",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "nun",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Sister",
+   "ner": "B-per"
+  },
+  {
+   "text": "Leonella",
+   "ner": "I-per"
+  },
+  {
+   "text": "Sgorbati",
+   "ner": "I-per"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "after",
+   "ner": "O"
+  },
+  {
+   "text": "she",
+   "ner": "O"
+  },
+  {
+   "text": "finished",
+   "ner": "O"
+  },
+  {
+   "text": "teaching",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "medical",
+   "ner": "O"
+  },
+  {
+   "text": "school",
+   "ner": "O"
+  },
+  {
+   "text": "class",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "hospital",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "southern",
+   "ner": "O"
+  },
+  {
+   "text": "Mogadishu",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Officials",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "this",
+   "ner": "O"
+  },
+  {
+   "text": "first",
+   "ner": "O"
+  },
+  {
+   "text": "flight",
+   "ner": "O"
+  },
+  {
+   "text": "was",
+   "ner": "O"
+  },
+  {
+   "text": "largely",
+   "ner": "O"
+  },
+  {
+   "text": "ceremonial",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "that",
+   "ner": "O"
+  },
+  {
+   "text": "most",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "passengers",
+   "ner": "O"
+  },
+  {
+   "text": "were",
+   "ner": "O"
+  },
+  {
+   "text": "French",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "diplomats",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "business",
+   "ner": "O"
+  },
+  {
+   "text": "leaders",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Indonesian",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "police",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "Wednesday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "men",
+   "ner": "O"
+  },
+  {
+   "text": "were",
+   "ner": "O"
+  },
+  {
+   "text": "flown",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "Bali",
+   "ner": "B-geo"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "neighboring",
+   "ner": "O"
+  },
+  {
+   "text": "Java",
+   "ner": "B-geo"
+  },
+  {
+   "text": "island",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "questioning",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "Bali",
+   "ner": "B-geo"
+  },
+  {
+   "text": "police",
+   "ner": "O"
+  },
+  {
+   "text": "headquarters",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Helicopter",
+   "ner": "O"
+  },
+  {
+   "text": "gunships",
+   "ner": "O"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "pounded",
+   "ner": "O"
+  },
+  {
+   "text": "militant",
+   "ner": "O"
+  },
+  {
+   "text": "hideouts",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Orakzai",
+   "ner": "B-geo"
+  },
+  {
+   "text": "tribal",
+   "ner": "O"
+  },
+  {
+   "text": "region",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "where",
+   "ner": "O"
+  },
+  {
+   "text": "many",
+   "ner": "O"
+  },
+  {
+   "text": "Taliban",
+   "ner": "B-org"
+  },
+  {
+   "text": "militants",
+   "ner": "O"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "believed",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "fled",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "avoid",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "earlier",
+   "ner": "O"
+  },
+  {
+   "text": "military",
+   "ner": "O"
+  },
+  {
+   "text": "offensive",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "nearby",
+   "ner": "O"
+  },
+  {
+   "text": "South",
+   "ner": "B-geo"
+  },
+  {
+   "text": "Waziristan",
+   "ner": "I-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "So",
+   "ner": "O"
+  },
+  {
+   "text": "far",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "nearly",
+   "ner": "O"
+  },
+  {
+   "text": "100",
+   "ner": "O"
+  },
+  {
+   "text": "militants",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "been",
+   "ner": "O"
+  },
+  {
+   "text": "reported",
+   "ner": "O"
+  },
+  {
+   "text": "killed",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "region",
+   "ner": "O"
+  },
+  {
+   "text": "since",
+   "ner": "O"
+  },
+  {
+   "text": "Thursday",
+   "ner": "B-tim"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Tokyo",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "Pyongyang",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "odds",
+   "ner": "O"
+  },
+  {
+   "text": "over",
+   "ner": "O"
+  },
+  {
+   "text": "North",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "Korea",
+   "ner": "I-gpe"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "nuclear",
+   "ner": "O"
+  },
+  {
+   "text": "weapons",
+   "ner": "O"
+  },
+  {
+   "text": "program",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "North",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "kidnapping",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Japanese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "citizens",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "1970s",
+   "ner": "B-tim"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "1980s",
+   "ner": "B-tim"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Khartoum",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "were",
+   "ner": "O"
+  },
+  {
+   "text": "defending",
+   "ner": "O"
+  },
+  {
+   "text": "their",
+   "ner": "O"
+  },
+  {
+   "text": "positions",
+   "ner": "O"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "rebel",
+   "ner": "O"
+  },
+  {
+   "text": "attacks",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Mr.",
+   "ner": "B-per"
+  },
+  {
+   "text": "Akmatbayev",
+   "ner": "I-per"
+  },
+  {
+   "text": "was",
+   "ner": "O"
+  },
+  {
+   "text": "involved",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "negotiations",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "Wednesday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "another",
+   "ner": "O"
+  },
+  {
+   "text": "Kyrgyz",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "prison",
+   "ner": "O"
+  },
+  {
+   "text": "where",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "riot",
+   "ner": "O"
+  },
+  {
+   "text": "over",
+   "ner": "O"
+  },
+  {
+   "text": "poor",
+   "ner": "O"
+  },
+  {
+   "text": "living",
+   "ner": "O"
+  },
+  {
+   "text": "conditions",
+   "ner": "O"
+  },
+  {
+   "text": "forced",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "staff",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "evacuate",
+   "ner": "O"
+  },
+  {
+   "text": "earlier",
+   "ner": "O"
+  },
+  {
+   "text": "this",
+   "ner": "O"
+  },
+  {
+   "text": "week",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Suspected",
+   "ner": "O"
+  },
+  {
+   "text": "Islamist",
+   "ner": "O"
+  },
+  {
+   "text": "rebels",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "fired",
+   "ner": "O"
+  },
+  {
+   "text": "mortar",
+   "ner": "O"
+  },
+  {
+   "text": "shells",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "palace",
+   "ner": "O"
+  },
+  {
+   "text": "used",
+   "ner": "O"
+  },
+  {
+   "text": "by",
+   "ner": "O"
+  },
+  {
+   "text": "Somalia",
+   "ner": "B-geo"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "interim",
+   "ner": "O"
+  },
+  {
+   "text": "President",
+   "ner": "B-per"
+  },
+  {
+   "text": "Abdullahi",
+   "ner": "I-per"
+  },
+  {
+   "text": "Yusuf",
+   "ner": "I-per"
+  },
+  {
+   "text": "Ahmad",
+   "ner": "I-per"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "military",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "13",
+   "ner": "O"
+  },
+  {
+   "text": "guerrillas",
+   "ner": "O"
+  },
+  {
+   "text": "were",
+   "ner": "O"
+  },
+  {
+   "text": "killed",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "two",
+   "ner": "O"
+  },
+  {
+   "text": "encounters",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "central",
+   "ner": "O"
+  },
+  {
+   "text": "province",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Uruzgan",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "group",
+   "ner": "O"
+  },
+  {
+   "text": "also",
+   "ner": "O"
+  },
+  {
+   "text": "accused",
+   "ner": "O"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "failing",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "stop",
+   "ner": "O"
+  },
+  {
+   "text": "people",
+   "ner": "O"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "damaging",
+   "ner": "O"
+  },
+  {
+   "text": "several",
+   "ner": "O"
+  },
+  {
+   "text": "mass",
+   "ner": "O"
+  },
+  {
+   "text": "graves",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "war-torn",
+   "ner": "O"
+  },
+  {
+   "text": "country",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "One",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "2008",
+   "ner": "B-eve"
+  },
+  {
+   "text": "Olympic",
+   "ner": "I-eve"
+  },
+  {
+   "text": "mascots",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "modeled",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "panda",
+   "ner": "O"
+  },
+  {
+   "text": "called",
+   "ner": "O"
+  },
+  {
+   "text": "Jing",
+   "ner": "B-nat"
+  },
+  {
+   "text": "Jing",
+   "ner": "I-nat"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "He",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "if",
+   "ner": "O"
+  },
+  {
+   "text": "Malaysia",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "wants",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "see",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "photos",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Bangkok",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "provide",
+   "ner": "O"
+  },
+  {
+   "text": "them",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "A",
+   "ner": "O"
+  },
+  {
+   "text": "spokesman",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Brotherhood",
+   "ner": "B-org"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "arrests",
+   "ner": "O"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "attempt",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "cut",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Brotherhood",
+   "ner": "B-org"
+  },
+  {
+   "text": "off",
+   "ner": "O"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "its",
+   "ner": "O"
+  },
+  {
+   "text": "supporters",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "punishment",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "winning",
+   "ner": "O"
+  },
+  {
+   "text": "parliamentary",
+   "ner": "O"
+  },
+  {
+   "text": "seats",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "earlier",
+   "ner": "O"
+  },
+  {
+   "text": "elections",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "FAO",
+   "ner": "B-org"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "estimate",
+   "ner": "O"
+  },
+  {
+   "text": "includes",
+   "ner": "O"
+  },
+  {
+   "text": "damage",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "fishing",
+   "ner": "O"
+  },
+  {
+   "text": "industries",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Indonesia",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Maldives",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Somalia",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Sri",
+   "ner": "B-geo"
+  },
+  {
+   "text": "Lanka",
+   "ner": "I-geo"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "Thailand",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Emergency",
+   "ner": "O"
+  },
+  {
+   "text": "power",
+   "ner": "O"
+  },
+  {
+   "text": "rationing",
+   "ner": "O"
+  },
+  {
+   "text": "has",
+   "ner": "O"
+  },
+  {
+   "text": "been",
+   "ner": "O"
+  },
+  {
+   "text": "put",
+   "ner": "O"
+  },
+  {
+   "text": "into",
+   "ner": "O"
+  },
+  {
+   "text": "effect",
+   "ner": "O"
+  },
+  {
+   "text": "around",
+   "ner": "O"
+  },
+  {
+   "text": "Moscow",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "China",
+   "ner": "B-geo"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "giant",
+   "ner": "O"
+  },
+  {
+   "text": "pandas",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "been",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "endangered",
+   "ner": "O"
+  },
+  {
+   "text": "species",
+   "ner": "O"
+  },
+  {
+   "text": "lists",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "nearly",
+   "ner": "O"
+  },
+  {
+   "text": "30",
+   "ner": "O"
+  },
+  {
+   "text": "years",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "ambush",
+   "ner": "O"
+  },
+  {
+   "text": "came",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "day",
+   "ner": "O"
+  },
+  {
+   "text": "after",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "commander",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Pakistani",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "army",
+   "ner": "O"
+  },
+  {
+   "text": "has",
+   "ner": "O"
+  },
+  {
+   "text": "almost",
+   "ner": "O"
+  },
+  {
+   "text": "completely",
+   "ner": "O"
+  },
+  {
+   "text": "eliminated",
+   "ner": "O"
+  },
+  {
+   "text": "militants",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "South",
+   "ner": "B-geo"
+  },
+  {
+   "text": "Waziristan",
+   "ner": "I-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Anti-Japanese",
+   "ner": "O"
+  },
+  {
+   "text": "protests",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "western",
+   "ner": "O"
+  },
+  {
+   "text": "Chinese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "city",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Shanghai",
+   "ner": "B-geo"
+  },
+  {
+   "text": "turned",
+   "ner": "O"
+  },
+  {
+   "text": "violent",
+   "ner": "O"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "protesters",
+   "ner": "O"
+  },
+  {
+   "text": "pelting",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Japanese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "consulate",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "rocks",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "bottles",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "eggs",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Officials",
+   "ner": "O"
+  },
+  {
+   "text": "close",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "negotiations",
+   "ner": "O"
+  },
+  {
+   "text": "say",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "accord",
+   "ner": "O"
+  },
+  {
+   "text": "signed",
+   "ner": "O"
+  },
+  {
+   "text": "Friday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "provides",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "pope",
+   "ner": "O"
+  },
+  {
+   "text": "has",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "he",
+   "ner": "O"
+  },
+  {
+   "text": "meant",
+   "ner": "O"
+  },
+  {
+   "text": "no",
+   "ner": "O"
+  },
+  {
+   "text": "offense",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "Muslims",
+   "ner": "O"
+  },
+  {
+   "text": "when",
+   "ner": "O"
+  },
+  {
+   "text": "he",
+   "ner": "O"
+  },
+  {
+   "text": "quoted",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "14",
+   "ner": "O"
+  },
+  {
+   "text": "century",
+   "ner": "O"
+  },
+  {
+   "text": "Byzantine",
+   "ner": "B-per"
+  },
+  {
+   "text": "emperor",
+   "ner": "O"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "saying",
+   "ner": "O"
+  },
+  {
+   "text": "some",
+   "ner": "O"
+  },
+  {
+   "text": "teachings",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Prophet",
+   "ner": "B-per"
+  },
+  {
+   "text": "Muhammed",
+   "ner": "I-per"
+  },
+  {
+   "text": "brought",
+   "ner": "O"
+  },
+  {
+   "text": "evil",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "world",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "A",
+   "ner": "O"
+  },
+  {
+   "text": "senior",
+   "ner": "O"
+  },
+  {
+   "text": "Pakistani",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "military",
+   "ner": "O"
+  },
+  {
+   "text": "official",
+   "ner": "O"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "Pakistan",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "wants",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "put",
+   "ner": "O"
+  },
+  {
+   "text": "what",
+   "ner": "O"
+  },
+  {
+   "text": "he",
+   "ner": "O"
+  },
+  {
+   "text": "calls",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "sordid",
+   "ner": "O"
+  },
+  {
+   "text": "chapter",
+   "ner": "O"
+  },
+  {
+   "text": "\"",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "proliferation",
+   "ner": "O"
+  },
+  {
+   "text": "by",
+   "ner": "O"
+  },
+  {
+   "text": "one",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "its",
+   "ner": "O"
+  },
+  {
+   "text": "top",
+   "ner": "O"
+  },
+  {
+   "text": "scientists",
+   "ner": "O"
+  },
+  {
+   "text": "behind",
+   "ner": "O"
+  },
+  {
+   "text": "it",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "build",
+   "ner": "O"
+  },
+  {
+   "text": "civilian",
+   "ner": "O"
+  },
+  {
+   "text": "nuclear",
+   "ner": "O"
+  },
+  {
+   "text": "ties",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "United",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "States",
+   "ner": "I-gpe"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "During",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "televised",
+   "ner": "O"
+  },
+  {
+   "text": "speech",
+   "ner": "O"
+  },
+  {
+   "text": "Sunday",
+   "ner": "B-tim"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "Mr.",
+   "ner": "B-per"
+  },
+  {
+   "text": "Chavez",
+   "ner": "I-per"
+  },
+  {
+   "text": "called",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "President",
+   "ner": "B-per"
+  },
+  {
+   "text": "Uribe",
+   "ner": "I-per"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "put",
+   "ner": "O"
+  },
+  {
+   "text": "his",
+   "ner": "O"
+  },
+  {
+   "text": "defense",
+   "ner": "O"
+  },
+  {
+   "text": "minister",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "his",
+   "ner": "O"
+  },
+  {
+   "text": "place",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Japanese",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "media",
+   "ner": "O"
+  },
+  {
+   "text": "reported",
+   "ner": "O"
+  },
+  {
+   "text": "Monday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "that",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "two",
+   "ner": "O"
+  },
+  {
+   "text": "countries",
+   "ner": "O"
+  },
+  {
+   "text": "hope",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "arrange",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "hold",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "talks",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Beijing",
+   "ner": "B-geo"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "early",
+   "ner": "O"
+  },
+  {
+   "text": "November",
+   "ner": "B-tim"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "ABAC",
+   "ner": "B-org"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "there",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "need",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "businesses",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "improve",
+   "ner": "O"
+  },
+  {
+   "text": "energy",
+   "ner": "O"
+  },
+  {
+   "text": "efficiency",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "encourage",
+   "ner": "O"
+  },
+  {
+   "text": "conservation",
+   "ner": "O"
+  },
+  {
+   "text": "practices",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "expected",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "include",
+   "ner": "O"
+  },
+  {
+   "text": "this",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "its",
+   "ner": "O"
+  },
+  {
+   "text": "annual",
+   "ner": "O"
+  },
+  {
+   "text": "report",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Venezuela",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "responded",
+   "ner": "O"
+  },
+  {
+   "text": "by",
+   "ner": "O"
+  },
+  {
+   "text": "sending",
+   "ner": "O"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Colombian",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "border",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Democrats",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "now",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "better",
+   "ner": "O"
+  },
+  {
+   "text": "chance",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "protect",
+   "ner": "O"
+  },
+  {
+   "text": "or",
+   "ner": "O"
+  },
+  {
+   "text": "expand",
+   "ner": "O"
+  },
+  {
+   "text": "their",
+   "ner": "O"
+  },
+  {
+   "text": "one-seat",
+   "ner": "O"
+  },
+  {
+   "text": "majority",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Senate",
+   "ner": "B-org"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "protest",
+   "ner": "O"
+  },
+  {
+   "text": "comes",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "eve",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "annual",
+   "ner": "O"
+  },
+  {
+   "text": "conference",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Britain",
+   "ner": "B-geo"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "ruling",
+   "ner": "O"
+  },
+  {
+   "text": "Labor",
+   "ner": "B-org"
+  },
+  {
+   "text": "Party",
+   "ner": "I-org"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "southern",
+   "ner": "O"
+  },
+  {
+   "text": "English",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "seaside",
+   "ner": "O"
+  },
+  {
+   "text": "resort",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Brighton",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "When",
+   "ner": "O"
+  },
+  {
+   "text": "he",
+   "ner": "O"
+  },
+  {
+   "text": "leaves",
+   "ner": "O"
+  },
+  {
+   "text": "office",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "80-year-old",
+   "ner": "O"
+  },
+  {
+   "text": "former",
+   "ner": "O"
+  },
+  {
+   "text": "Navy",
+   "ner": "B-org"
+  },
+  {
+   "text": "secretary",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "served",
+   "ner": "O"
+  },
+  {
+   "text": "30",
+   "ner": "O"
+  },
+  {
+   "text": "years",
+   "ner": "O"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "U.S.",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "senator",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "organization",
+   "ner": "O"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "children",
+   "ner": "O"
+  },
+  {
+   "text": "had",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "history",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "contact",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "dead",
+   "ner": "O"
+  },
+  {
+   "text": "birds",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Poor",
+   "ner": "O"
+  },
+  {
+   "text": "residents",
+   "ner": "O"
+  },
+  {
+   "text": "often",
+   "ner": "O"
+  },
+  {
+   "text": "complain",
+   "ner": "O"
+  },
+  {
+   "text": "they",
+   "ner": "O"
+  },
+  {
+   "text": "have",
+   "ner": "O"
+  },
+  {
+   "text": "been",
+   "ner": "O"
+  },
+  {
+   "text": "cheated",
+   "ner": "O"
+  },
+  {
+   "text": "out",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "huge",
+   "ner": "O"
+  },
+  {
+   "text": "riches",
+   "ner": "O"
+  },
+  {
+   "text": "extracted",
+   "ner": "O"
+  },
+  {
+   "text": "from",
+   "ner": "O"
+  },
+  {
+   "text": "their",
+   "ner": "O"
+  },
+  {
+   "text": "tribal",
+   "ner": "O"
+  },
+  {
+   "text": "lands",
+   "ner": "O"
+  },
+  {
+   "text": "-",
+   "ner": "O"
+  },
+  {
+   "text": "where",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "bulk",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Nigeria",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "2.3",
+   "ner": "O"
+  },
+  {
+   "text": "million",
+   "ner": "O"
+  },
+  {
+   "text": "barrels",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "petroleum",
+   "ner": "O"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "pumped",
+   "ner": "O"
+  },
+  {
+   "text": "daily",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "Institute",
+   "ner": "B-org"
+  },
+  {
+   "text": "for",
+   "ner": "I-org"
+  },
+  {
+   "text": "Science",
+   "ner": "I-org"
+  },
+  {
+   "text": "and",
+   "ner": "I-org"
+  },
+  {
+   "text": "International",
+   "ner": "I-org"
+  },
+  {
+   "text": "Security",
+   "ner": "I-org"
+  },
+  {
+   "text": "reports",
+   "ner": "O"
+  },
+  {
+   "text": "that",
+   "ner": "O"
+  },
+  {
+   "text": "satellite",
+   "ner": "O"
+  },
+  {
+   "text": "photos",
+   "ner": "O"
+  },
+  {
+   "text": "show",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "possible",
+   "ner": "O"
+  },
+  {
+   "text": "construction",
+   "ner": "O"
+  },
+  {
+   "text": "site",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "larger",
+   "ner": "O"
+  },
+  {
+   "text": "nuclear",
+   "ner": "O"
+  },
+  {
+   "text": "reactor",
+   "ner": "O"
+  },
+  {
+   "text": "near",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "small",
+   "ner": "O"
+  },
+  {
+   "text": "one",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Khushab",
+   "ner": "B-geo"
+  },
+  {
+   "text": "district",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Punjab",
+   "ner": "B-geo"
+  },
+  {
+   "text": "province",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Sudan",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "government",
+   "ner": "O"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "it",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "order",
+   "ner": "O"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "end",
+   "ner": "O"
+  },
+  {
+   "text": "attacks",
+   "ner": "O"
+  },
+  {
+   "text": "immediately",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Darfur",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "asking",
+   "ner": "O"
+  },
+  {
+   "text": "rebels",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "do",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "same",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "Pakistani",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "military",
+   "ner": "O"
+  },
+  {
+   "text": "launched",
+   "ner": "O"
+  },
+  {
+   "text": "its",
+   "ner": "O"
+  },
+  {
+   "text": "offensive",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Orakzai",
+   "ner": "B-geo"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "hunt",
+   "ner": "O"
+  },
+  {
+   "text": "Taliban",
+   "ner": "B-org"
+  },
+  {
+   "text": "insurgents",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Officials",
+   "ner": "O"
+  },
+  {
+   "text": "say",
+   "ner": "O"
+  },
+  {
+   "text": "one",
+   "ner": "O"
+  },
+  {
+   "text": "suspect",
+   "ner": "O"
+  },
+  {
+   "text": "was",
+   "ner": "O"
+  },
+  {
+   "text": "arrested",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "crash",
+   "ner": "O"
+  },
+  {
+   "text": "comes",
+   "ner": "O"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "NATO",
+   "ner": "B-org"
+  },
+  {
+   "text": "forces",
+   "ner": "O"
+  },
+  {
+   "text": "launched",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "offensive",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "drive",
+   "ner": "O"
+  },
+  {
+   "text": "Taleban",
+   "ner": "B-org"
+  },
+  {
+   "text": "remnants",
+   "ner": "O"
+  },
+  {
+   "text": "out",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Kandahar",
+   "ner": "B-geo"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "In",
+   "ner": "O"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "elections",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "voters",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "cast",
+   "ner": "O"
+  },
+  {
+   "text": "ballots",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "nine",
+   "ner": "O"
+  },
+  {
+   "text": "provinces",
+   "ner": "O"
+  },
+  {
+   "text": "where",
+   "ner": "O"
+  },
+  {
+   "text": "no",
+   "ner": "O"
+  },
+  {
+   "text": "candidate",
+   "ner": "O"
+  },
+  {
+   "text": "won",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "majority",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "previous",
+   "ner": "O"
+  },
+  {
+   "text": "round",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "voting",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Analysts",
+   "ner": "O"
+  },
+  {
+   "text": "say",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Department",
+   "ner": "B-org"
+  },
+  {
+   "text": "of",
+   "ner": "I-org"
+  },
+  {
+   "text": "Labor",
+   "ner": "I-org"
+  },
+  {
+   "text": "report",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "help",
+   "ner": "O"
+  },
+  {
+   "text": "ease",
+   "ner": "O"
+  },
+  {
+   "text": "worries",
+   "ner": "O"
+  },
+  {
+   "text": "that",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "tight",
+   "ner": "O"
+  },
+  {
+   "text": "labor",
+   "ner": "O"
+  },
+  {
+   "text": "market",
+   "ner": "O"
+  },
+  {
+   "text": "will",
+   "ner": "O"
+  },
+  {
+   "text": "significantly",
+   "ner": "O"
+  },
+  {
+   "text": "inflate",
+   "ner": "O"
+  },
+  {
+   "text": "wages",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "costs",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Uganda",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "government",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "rebels",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Lord",
+   "ner": "B-org"
+  },
+  {
+   "text": "'s",
+   "ner": "I-org"
+  },
+  {
+   "text": "Resistance",
+   "ner": "I-org"
+  },
+  {
+   "text": "Army",
+   "ner": "I-org"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "nearing",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "peace",
+   "ner": "O"
+  },
+  {
+   "text": "deal",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "end",
+   "ner": "O"
+  },
+  {
+   "text": "more",
+   "ner": "O"
+  },
+  {
+   "text": "than",
+   "ner": "O"
+  },
+  {
+   "text": "20",
+   "ner": "O"
+  },
+  {
+   "text": "years",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "conflict",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Thursday",
+   "ner": "B-tim"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "verdict",
+   "ner": "O"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "only",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "second",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "Vioxx",
+   "ner": "B-art"
+  },
+  {
+   "text": "case",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "That",
+   "ner": "O"
+  },
+  {
+   "text": "prison",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "also",
+   "ner": "O"
+  },
+  {
+   "text": "near",
+   "ner": "O"
+  },
+  {
+   "text": "Bishkek",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "remained",
+   "ner": "O"
+  },
+  {
+   "text": "surrounded",
+   "ner": "O"
+  },
+  {
+   "text": "by",
+   "ner": "O"
+  },
+  {
+   "text": "security",
+   "ner": "O"
+  },
+  {
+   "text": "forces",
+   "ner": "O"
+  },
+  {
+   "text": "on",
+   "ner": "O"
+  },
+  {
+   "text": "Thursday",
+   "ner": "B-tim"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "The",
+   "ner": "O"
+  },
+  {
+   "text": "African",
+   "ner": "B-org"
+  },
+  {
+   "text": "Union",
+   "ner": "I-org"
+  },
+  {
+   "text": "has",
+   "ner": "O"
+  },
+  {
+   "text": "deployed",
+   "ner": "O"
+  },
+  {
+   "text": "troops",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "Somalia",
+   "ner": "B-geo"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "replace",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Ethiopian",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "forces",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "which",
+   "ner": "O"
+  },
+  {
+   "text": "Addis",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "Ababa",
+   "ner": "I-gpe"
+  },
+  {
+   "text": "plans",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "withdraw",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "A",
+   "ner": "O"
+  },
+  {
+   "text": "NATO",
+   "ner": "B-org"
+  },
+  {
+   "text": "spokesman",
+   "ner": "O"
+  },
+  {
+   "text": "says",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "aircraft",
+   "ner": "O"
+  },
+  {
+   "text": "went",
+   "ner": "O"
+  },
+  {
+   "text": "off",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "radar",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "crashed",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "open",
+   "ner": "O"
+  },
+  {
+   "text": "area",
+   "ner": "O"
+  },
+  {
+   "text": "near",
+   "ner": "O"
+  },
+  {
+   "text": "Kandahar",
+   "ner": "B-geo"
+  },
+  {
+   "text": "Saturday",
+   "ner": "B-tim"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Interior",
+   "ner": "B-per"
+  },
+  {
+   "text": "Minister",
+   "ner": "I-per"
+  },
+  {
+   "text": "Murat",
+   "ner": "I-per"
+  },
+  {
+   "text": "Sutalinov",
+   "ner": "I-per"
+  },
+  {
+   "text": "is",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "prison",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "head",
+   "ner": "O"
+  },
+  {
+   "text": "negotiations",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "inmates",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Scientists",
+   "ner": "O"
+  },
+  {
+   "text": "fear",
+   "ner": "O"
+  },
+  {
+   "text": "such",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "mutation",
+   "ner": "O"
+  },
+  {
+   "text": "could",
+   "ner": "O"
+  },
+  {
+   "text": "spark",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "global",
+   "ner": "O"
+  },
+  {
+   "text": "pandemic",
+   "ner": "O"
+  },
+  {
+   "text": "with",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "potential",
+   "ner": "O"
+  },
+  {
+   "text": "death",
+   "ner": "O"
+  },
+  {
+   "text": "toll",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "millions",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Police",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "British",
+   "ner": "B-org"
+  },
+  {
+   "text": "Home",
+   "ner": "I-org"
+  },
+  {
+   "text": "Office",
+   "ner": "I-org"
+  },
+  {
+   "text": "sought",
+   "ner": "O"
+  },
+  {
+   "text": "an",
+   "ner": "O"
+  },
+  {
+   "text": "investigation",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Khayam",
+   "ner": "B-per"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "behavior",
+   "ner": "O"
+  },
+  {
+   "text": "after",
+   "ner": "O"
+  },
+  {
+   "text": "he",
+   "ner": "O"
+  },
+  {
+   "text": "was",
+   "ner": "O"
+  },
+  {
+   "text": "photographed",
+   "ner": "O"
+  },
+  {
+   "text": "last",
+   "ner": "O"
+  },
+  {
+   "text": "week",
+   "ner": "O"
+  },
+  {
+   "text": "at",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "demonstration",
+   "ner": "O"
+  },
+  {
+   "text": "dressed",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "fatigues",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "black",
+   "ner": "O"
+  },
+  {
+   "text": "cap",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "a",
+   "ner": "O"
+  },
+  {
+   "text": "bulky",
+   "ner": "O"
+  },
+  {
+   "text": "belt",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Indonesian",
+   "ner": "B-gpe"
+  },
+  {
+   "text": "authorities",
+   "ner": "O"
+  },
+  {
+   "text": "blame",
+   "ner": "O"
+  },
+  {
+   "text": "Azahari",
+   "ner": "B-per"
+  },
+  {
+   "text": "bin",
+   "ner": "I-per"
+  },
+  {
+   "text": "Husin",
+   "ner": "I-per"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "orchestrating",
+   "ner": "O"
+  },
+  {
+   "text": "last",
+   "ner": "O"
+  },
+  {
+   "text": "month",
+   "ner": "O"
+  },
+  {
+   "text": "'s",
+   "ner": "O"
+  },
+  {
+   "text": "attacks",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "Bali",
+   "ner": "B-geo"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "well",
+   "ner": "O"
+  },
+  {
+   "text": "as",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "2002",
+   "ner": "B-tim"
+  },
+  {
+   "text": "Bali",
+   "ner": "B-geo"
+  },
+  {
+   "text": "bombings",
+   "ner": "O"
+  },
+  {
+   "text": "that",
+   "ner": "O"
+  },
+  {
+   "text": "killed",
+   "ner": "O"
+  },
+  {
+   "text": "more",
+   "ner": "O"
+  },
+  {
+   "text": "than",
+   "ner": "O"
+  },
+  {
+   "text": "200",
+   "ner": "O"
+  },
+  {
+   "text": "people",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "Critics",
+   "ner": "O"
+  },
+  {
+   "text": "of",
+   "ner": "O"
+  },
+  {
+   "text": "Halliburton",
+   "ner": "B-org"
+  },
+  {
+   "text": "include",
+   "ner": "O"
+  },
+  {
+   "text": "auditors",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "congressional",
+   "ner": "O"
+  },
+  {
+   "text": "Democrats",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "In",
+   "ner": "O"
+  },
+  {
+   "text": "Beijing",
+   "ner": "B-geo"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "police",
+   "ner": "O"
+  },
+  {
+   "text": "are",
+   "ner": "O"
+  },
+  {
+   "text": "out",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "force",
+   "ner": "O"
+  },
+  {
+   "text": "waiting",
+   "ner": "O"
+  },
+  {
+   "text": "for",
+   "ner": "O"
+  },
+  {
+   "text": "protests",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "begin",
+   "ner": "O"
+  },
+  {
+   "text": "in",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "capital",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ],
+ [
+  {
+   "text": "With",
+   "ner": "O"
+  },
+  {
+   "text": "2,012",
+   "ner": "O"
+  },
+  {
+   "text": "days",
+   "ner": "O"
+  },
+  {
+   "text": "to",
+   "ner": "O"
+  },
+  {
+   "text": "go",
+   "ner": "O"
+  },
+  {
+   "text": "until",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "Games",
+   "ner": "B-eve"
+  },
+  {
+   "text": "get",
+   "ner": "O"
+  },
+  {
+   "text": "under",
+   "ner": "O"
+  },
+  {
+   "text": "way",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "organizers",
+   "ner": "O"
+  },
+  {
+   "text": "said",
+   "ner": "O"
+  },
+  {
+   "text": "the",
+   "ner": "O"
+  },
+  {
+   "text": "design",
+   "ner": "O"
+  },
+  {
+   "text": "would",
+   "ner": "O"
+  },
+  {
+   "text": "champion",
+   "ner": "O"
+  },
+  {
+   "text": "low",
+   "ner": "O"
+  },
+  {
+   "text": "waste",
+   "ner": "O"
+  },
+  {
+   "text": ",",
+   "ner": "O"
+  },
+  {
+   "text": "low",
+   "ner": "O"
+  },
+  {
+   "text": "carbon",
+   "ner": "O"
+  },
+  {
+   "text": "emissions",
+   "ner": "O"
+  },
+  {
+   "text": "and",
+   "ner": "O"
+  },
+  {
+   "text": "environmentally",
+   "ner": "O"
+  },
+  {
+   "text": "friendly",
+   "ner": "O"
+  },
+  {
+   "text": "transportation",
+   "ner": "O"
+  },
+  {
+   "text": ".",
+   "ner": "O"
+  }
+ ]
+]
